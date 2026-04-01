@@ -1,0 +1,91 @@
+{
+  "categories": [
+    {
+      "id": "cat_001",
+      "name": "Fruits & Vegetables",
+      "subcategories": [
+        "Fresh Vegetables",
+        "Fresh Fruits",
+        "Leafy Greens",
+        "Organic Produce",
+        "Herbs & Seasonings"
+      ]
+    },
+    {
+      "id": "cat_002",
+      "name": "Dairy & Eggs",
+      "subcategories": [
+        "Milk & Flavored Milk",
+        "Cheese & Butter",
+        "Eggs",
+        "Yogurt & Curd",
+        "Plant-Based Dairy"
+      ]
+    },
+    {
+      "id": "cat_003",
+      "name": "Bakery & Bread",
+      "subcategories": [
+        "Fresh Bread",
+        "Buns & Rolls",
+        "Cakes & Pastries",
+        "Tortillas & Flatbreads"
+      ]
+    },
+    {
+      "id": "cat_004",
+      "name": "Pantry & Staples",
+      "subcategories": [
+        "Rice & Grains",
+        "Flours & Baking Needs",
+        "Cooking Oils & Fats",
+        "Pulses & Legumes",
+        "Spices & Seasonings",
+        "Canned Goods"
+      ]
+    },
+    {
+      "id": "cat_005",
+      "name": "Beverages",
+      "subcategories": [
+        "Coffee & Tea",
+        "Soft Drinks & Sodas",
+        "Juices",
+        "Bottled Water",
+        "Energy & Sports Drinks"
+      ]
+    },
+    {
+      "id": "cat_006",
+      "name": "Snacks & Prepared Foods",
+      "subcategories": [
+        "Chips & Crackers",
+        "Noodles & Instant Pasta",
+        "Breakfast Cereals",
+        "Chocolates & Candy",
+        "Frozen Foods"
+      ]
+    },
+    {
+      "id": "cat_007",
+      "name": "Personal Care",
+      "subcategories": [
+        "Bath & Body",
+        "Hair Care",
+        "Oral Care",
+        "Skin Care & Hygiene"
+      ]
+    },
+    {
+      "id": "cat_008",
+      "name": "Household Supplies",
+      "subcategories": [
+        "Laundry & Dish Care",
+        "Surface Cleaners",
+        "Paper Products",
+        "Trash Bags & Disposables",
+        "Pet Food & Supplies"
+      ]
+    }
+  ]
+}
