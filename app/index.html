@@ -788,7 +788,11 @@
 			if (!first) {
 				return "";
 			}
-			return `../admin/${String(first).replace(/^\/+/, "")}`;
+			const src = String(first);
+			if (src.startsWith("http://") || src.startsWith("https://")) {
+				return src;
+			}
+			return `../admin/${src.replace(/^\/+/, "")}`;
 		}
 
 		function getUnitLabel(item) {
